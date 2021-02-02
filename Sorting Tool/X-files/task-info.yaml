@@ -501,6 +501,15 @@ files:
         }
     }
   learner_created: false
+- name: src/sorting/readFile.kt
+  visible: true
+  learner_created: true
+- name: out.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/106/stages/579/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 02 Feb 2021 20:38:30 UTC
 record: -1

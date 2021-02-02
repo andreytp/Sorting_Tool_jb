@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/353193/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Mon, 01 Feb 2021 06:55:40 UTC
+update_date: Tue, 02 Feb 2021 19:15:09 UTC
 stages:
 - id: 574
   step: 9623
@@ -22,7 +22,7 @@ stages:
   is_completed: true
 - id: 579
   step: 9628
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Modulo division
@@ -86,14 +86,16 @@ topics:
   - title: IntelliJ IDEA
     theory_id: 3801
   1:
+  - title: Introduction to operating systems
+    theory_id: 9704
+  - title: Objects
+    theory_id: 11233
   - title: Comments
     theory_id: 4406
   - title: Coding style conventions
     theory_id: 4419
   - title: Naming variables
     theory_id: 4389
-  - title: Introduction to operating systems
-    theory_id: 9704
   - title: Command line overview
     theory_id: 8977
   - title: Parameters and options
@@ -102,6 +104,8 @@ topics:
     theory_id: 4502
   - title: Declaring functions
     theory_id: 4580
+  - title: Equality
+    theory_id: 11236
   - title: Getting substrings
     theory_id: 8535
   - title: Arrays
@@ -123,12 +127,10 @@ topics:
     theory_id: 10336
   - title: The big O notation
     theory_id: 4991
-  - title: The sorting problem
-    theory_id: 4954
-  - title: Recursion basics
-    theory_id: 5984
   - title: Divide and conquer
     theory_id: 3544
+  - title: The sorting problem
+    theory_id: 4954
   - title: Merge sort
     theory_id: 4964
   - title: Introduction to collections
@@ -137,6 +139,8 @@ topics:
     theory_id: 10730
   - title: Mutable List
     theory_id: 11032
+  - title: Recursion basics
+    theory_id: 5984
   3:
   - title: Mutable Map
     theory_id: 8021
@@ -150,10 +154,6 @@ topics:
   - title: The try-catch statement
     theory_id: 10622
   5:
-  - title: Objects
-    theory_id: 11233
-  - title: Equality
-    theory_id: 11236
   - title: Functions as objects
     theory_id: 5991
   - title: Lambda expressions
